@@ -1,164 +1,164 @@
 [[USRPHardwareDriver]]
 arch = "aarch64"
-git-tree-sha1 = "ed16252dc4230985e94a6bd47f39c86ef29f51d3"
+git-tree-sha1 = "3fe605e4baef88b8af8c0fed9cb532390084eb7d"
 os = "macos"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "2aa7d5ef98db640ff8c7113c290ffee10d606f7337ecd5e2257b3d8a356b062d"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "1d79c7cb92ac471c6c856be2e5966908f10cb46010b073f475b7197e4aa0253c"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.aarch64-apple-darwin.tar.gz"
 [[USRPHardwareDriver]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "57068b7bbb2264f6e4d37a5da723b46dbccad6dd"
+git-tree-sha1 = "29cb1da89a1afac6f05a0390c2d21d5027385e1e"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "b7c7e3540ee0f196109b066ef075990d98ce2f613033bd104d9114bc7059d9d2"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8661df0830153200aae70627b0049917176567ae5d27aedc279d48c473450701"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[USRPHardwareDriver]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8dc07cde0a95be56b411bb26e897ea8a3986176"
+git-tree-sha1 = "6387f27d7140c5b72f1c7fbdd62bee0b99634ff6"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "ca08d1b9d826fa48bf029f7537ebac634a7f6edec6ac07433fd21e29132870a2"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6d85d9036a40c941ad26dd5d62fbf34d359a5f032e114a67fd7929d85b865478"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[USRPHardwareDriver]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "884383bbc479dc2ba9d156befe12f77026ffea1c"
+git-tree-sha1 = "3192569317bba3219f932aa22c68522a65fa93d1"
 libc = "musl"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "a4722c04c26cb99c0322f0ba65cdae1a28ad40c4c740b011ca5cd40dbb775a7a"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "50ea77c3aab7e2f4ddb522da781f90c37853e4297906d05832d868c9672fc76f"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.aarch64-linux-musl-cxx03.tar.gz"
 [[USRPHardwareDriver]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "468320f345960e42a9c3e7478255397ae396bb39"
+git-tree-sha1 = "a73a610d2ce471bf49fb383fe3a9a556edfc60a0"
 libc = "musl"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "9ff51e345a53952fcb6fa2918285afd80e087f871b54e1b1d81f35077c723097"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "88656ab4e21969cbfb7844f9ecdb937120ada0bb81dc06ca47aa772870a89219"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.aarch64-linux-musl-cxx11.tar.gz"
 [[USRPHardwareDriver]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4f6ed30d67e00c52ee038c82bf6caa3891b1b55"
+git-tree-sha1 = "0e75184e0f6134bd7c985a90987a1ab89c9952c8"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "e2367f360c9a1aee48f16e4eddf2d3ea979109ed9cba6337a6babf66c123efc7"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "77255e6c794aa97d591d273e547df7c3dfc4c7cace7b405a80543dab0393dded"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.i686-linux-gnu-cxx03.tar.gz"
 [[USRPHardwareDriver]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "79ccb940b97c97658a1fe6fd539accfd833ba1bc"
+git-tree-sha1 = "4efc7a90391937bf95c5cf2397a7c1e5f88a0a12"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "6aca2be85ffa1a55294f17f90f4cfe48d59a88d9783f623736b14e586d906cd4"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "d89896347fb01233a617f59d7057d8f54fabfd2b93efae66e34b3984b7042aa3"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.i686-linux-gnu-cxx11.tar.gz"
 [[USRPHardwareDriver]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e16a0846e27b5d923d89cbeeb303a5821c41fb22"
+git-tree-sha1 = "32f96107045b5c8522d0e3d38c89365203ddcd53"
 libc = "musl"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "1164cb313359d8da7ed566da3a352fc2bbadcf074ab0a278ebfecb076914f9d3"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "9475c3305637dc4c66cedc9cf4d06fc3cd075f1bae45d182d04a81fc58f3d9fd"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.i686-linux-musl-cxx03.tar.gz"
 [[USRPHardwareDriver]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "985ae9ea2b5099ea2dee7232567d2226dc8d498b"
+git-tree-sha1 = "c0002ba5dfe68b4f2839834db9040aa78d5b0e38"
 libc = "musl"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "af176b7ffb030c5715c7e63ffaa2406c1769abd20f2e5ea1a0d3249af241e418"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "b5e0629913c691d27b04d27e1a597bf891b08ad1e2e96cbd2323aa45837f4f18"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.i686-linux-musl-cxx11.tar.gz"
 [[USRPHardwareDriver]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "91682953318b22d09d43fa47b6cafb8b2e630048"
+git-tree-sha1 = "825124ce9aef0780cdda4cad9f6b04e62464f1db"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "fa4b38c4d6506b32712a47cc4535c9ce7673be779b6227d57039960aa982050a"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "910a6abc3c4517e216b2eaf5300892f9f96139bb609ffe81ad2526b520888e2d"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[USRPHardwareDriver]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c6f7b06dc47038efc553e66bd31cdd03f6d6449e"
+git-tree-sha1 = "98ddb8436c97a58f28a3ce44b6f346e13e5e753d"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "2e924867690ecfd1446d1ae910f2dbbedea7bb1c464ee4b08af02ba3619ca07b"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "b0efe795a907a0d108019eb84ed41a6d552a9bd0eb2d36ca093383a46df008f1"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[USRPHardwareDriver]]
 arch = "x86_64"
-git-tree-sha1 = "f0c28f69e32b0994a70c0df98e5be52abe0bfd3c"
+git-tree-sha1 = "aa6e145de0d3e767504f945ce1818457b0dd2b7f"
 os = "macos"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "223565c175591aae9f5bbc1fe71216c59e32b3e27e8564cf83933b9feeaa3435"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "0d4a86504028a106626750ff73704baaac9a5af28c2035a4f7c3253d20130e5f"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.x86_64-apple-darwin.tar.gz"
 [[USRPHardwareDriver]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a92d223b13baf79b7b59919086abd625637f4885"
+git-tree-sha1 = "7b0bce683d72c8b363069962673e59a71ff585e0"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "c0fc2027ac1719122a9fc995d18883773c0aa9b412625fc09e5c65a1b7f4a35a"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e0a94e9193343dec37241865c242be5a546a1cbb039b53d3ac25ef758bd2caa0"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[USRPHardwareDriver]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aab01fd35ab3a7c6bbe0e50f3ae32adc1b8487c0"
+git-tree-sha1 = "fabb2975097f0f0a96ef381e8e848891f4c68298"
 libc = "glibc"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "ed16d5f50bcdac9c35c904159a35392cdb3ec180c79613af01970ef9d104e037"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "335cd42e709b186f73c7b03c8b8a7decd95c2d8aae3b1c2a15c3626b021b810b"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[USRPHardwareDriver]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c70449aa6d5195be4a504c3d31739b988cc9e843"
+git-tree-sha1 = "47970df46da855ee5ea3095ed92f2fa17e706c12"
 libc = "musl"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "64ff8653020c4a77f45a34b91ae3ac7ab134f84da49b4247a03a3ab39a69892a"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "287a972f0ab40579045c206b124b1245205e7252e624406618b357c1e69fde50"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.x86_64-linux-musl-cxx03.tar.gz"
 [[USRPHardwareDriver]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7c358656400381efc0df6399fed1a1ec36f10d9"
+git-tree-sha1 = "51276a84e26fdfded9e00434599f903d794dd975"
 libc = "musl"
 os = "linux"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "5a04a4ab6c92549332e57986ef71d3a81fd2301ef5232b5ccaca667cfef61cb2"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "94f620a0ca2a1c9e9e402194027019040c5008f7607f8702169c4c87751e930e"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.x86_64-linux-musl-cxx11.tar.gz"
 [[USRPHardwareDriver]]
 arch = "x86_64"
-git-tree-sha1 = "68f5b3c35b2eca2a33d3d1b314d18f20b6b58c27"
+git-tree-sha1 = "6eebd63c24167b4011be15fbba98673682648619"
 os = "freebsd"
 
     [[USRPHardwareDriver.download]]
-    sha256 = "e4ac64e72ce2dc9609f8183da1fea3a8ebe56bf3b7d2f0df73b993ab9ecb013e"
-    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+0/USRPHardwareDriver.v4.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "169e61b34560c670d6f8b7de977d63034117a65b1a62da89a5d410af662c4041"
+    url = "https://github.com/JuliaBinaryWrappers/USRPHardwareDriver_jll.jl/releases/download/USRPHardwareDriver-v4.1.0+1/USRPHardwareDriver.v4.1.0.x86_64-unknown-freebsd.tar.gz"

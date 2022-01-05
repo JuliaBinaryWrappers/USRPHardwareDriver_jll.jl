@@ -1,6 +1,6 @@
 name = "USRPHardwareDriver_jll"
 uuid = "e339f254-40e1-517e-839f-dc67f1dbd84e"
-version = "4.1.0+0"
+version = "4.1.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
